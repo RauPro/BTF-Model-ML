@@ -1,0 +1,1 @@
+FROM raupro/jupyterlab:latest
